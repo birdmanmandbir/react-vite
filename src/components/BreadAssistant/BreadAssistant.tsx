@@ -1,5 +1,5 @@
-import BreadItem from './views/BreadItem'
-import BreadTable from './views/BreadTable'
+import BreadItem from 'components/BreadAssistant/views/BreadItem'
+import BreadTable from 'components/BreadAssistant/views/BreadTable'
 import styled from 'styled-components'
 const Block = styled.div`
   margin-bottom: 10px;
